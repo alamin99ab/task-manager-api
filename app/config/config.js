@@ -1,5 +1,5 @@
 export const PORT=5050
-export const DATABASE=""
+export const DATABASE="mongodb+srv://alamin:1122@cluster1.sthth.mongodb.net/"
 export const JWT_KEY="ABC123123123"
 export const JWT_EXPIRE_TIME=30*24*60*60
 
